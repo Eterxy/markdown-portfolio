@@ -1,1 +1,7 @@
-Replace this with a list of your favorite things.
+Food
+  Pizza
+  Ice cream
+  sushi
+Drinks
+  Soda
+  Pepsi
