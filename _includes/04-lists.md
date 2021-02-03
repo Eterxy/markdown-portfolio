@@ -1,8 +1,8 @@
 
--Food
-  -Pizza
-  -Ice cream
-  -sushi
--Drinks
-  -Soda
-  -Pepsi
+- Food
+  - Pizza
+  - Ice cream
+  - sushi
+- Drinks
+  - Soda
+  - Pepsi
